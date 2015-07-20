@@ -1,0 +1,35 @@
+
+
+/* says want to use font*/
+@import url(http://fonts.googleapis.com/css?family=Poiret+One);
+@import url(http://fonts.googleapis.com/css?family=Vollkorn);
+
+/* tag */
+html{
+  font-family: 'Vollkorn';
+  color: #000000;
+  background-color: #e9cfec;
+  }
+
+  h1{
+    font-family: 'Poiret One';
+  }
+  /*p{
+    width: 500px;
+    height: 10px;
+  }*/
+
+
+/* ID */
+  #worktag{
+    color: blue;
+  }
+
+  #sporttag{
+    color: red;
+  }
+
+/* class*/
+  .bluetext{
+    color: blue;
+  }
